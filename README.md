@@ -5,11 +5,11 @@
 
 <!-- BANNER & LOGO -->
 <p align="center">
-  <img src="./banner.png?v=2" alt="Karthik Chakala Banner" width="100%" />
+  <img src="./banner.png?v=3" alt="Karthik Chakala Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./logo.png?v=2" alt="Karthik Chakala Logo" width="120" />
+  <img src="./logo.png?v=3" alt="Karthik Chakala Logo" width="120" />
 </p>
 
 <!-- HEADER -->
