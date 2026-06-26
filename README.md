@@ -92,10 +92,11 @@ graph TD
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚜 Farm to Home</h3>
       <p><b>Hyperlocal Agri-Commerce Platform</b></p>
       <p>A microservices-based commerce platform connecting local farmers directly with consumers within a 5–7 km radius using location-aware distance filtering.</p>
+      <p><b>Tech Stack:</b> React.js, Node.js, Express.js, Supabase, Socket.IO, WebRTC, Node-Cron, Razorpay</p>
       <p><b>Architecture:</b> Microservices Architecture, Client-Server</p>
       <p><b>Key Features:</b> Live chat & expert consultations via WebRTC/Socket.IO, Winston/Morgan logging, automated billing via Node-Cron & Razorpay, AI suite for pest detection.</p>
       <p>
@@ -104,10 +105,13 @@ graph TD
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>🏥 Hospital Management System</h3>
       <p><b>Full-Lifecycle Healthcare Application</b></p>
       <p>A comprehensive hospital management platform streamlining appointment booking, EMR, laboratory, pharmacy, and billing operations.</p>
+      <p><b>Tech Stack:</b> Next.js, React.js, Node.js, Express.js, Supabase, Cloudinary, Multer, Nodemailer, Razorpay</p>
       <p><b>Architecture:</b> MVC, Client-Server</p>
       <p><b>Key Features:</b> Lead a 4-member Agile team, delivered 30+ role-based REST APIs, token-based JWT authentication, integrated Cloudinary and Razorpay.</p>
       <p>
@@ -118,10 +122,11 @@ graph TD
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>📚 E-Learning Platform</h3>
       <p><b>Scalable Online Learning Management System</b></p>
       <p>An online academy offering course delivery, live competitive quizzes, and payment integrations with role-based access control.</p>
+      <p><b>Tech Stack:</b> React.js, Node.js, Express.js, PostgreSQL, Supabase, Socket.IO</p>
       <p><b>Architecture:</b> Monolithic Client-Server, Namespace-based Event Routing</p>
       <p><b>Key Features:</b> Live quizzes via Socket.IO namespaces, HMAC webhook verification, 40+ REST endpoints, robust PostgreSQL triggers & constraints.</p>
       <p>
@@ -130,10 +135,13 @@ graph TD
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>💻 Personal Portfolio</h3>
       <p><b>Interactive Developer Portfolio</b></p>
       <p>A personal portfolio site showcase highlighting technical expertise, projects, and educational credentials.</p>
+      <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript, Vercel</p>
       <p><b>Architecture:</b> SPA Client-Server</p>
       <p><b>Key Features:</b> Clean responsive interface, performance-optimized, hosted on Vercel.</p>
       <p>
@@ -142,6 +150,36 @@ graph TD
         </a>
         <a href="https://karthik-chakala.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🧵 StitchEase</h3>
+      <p><b>Smart Tailoring Service Platform (In Progress)</b></p>
+      <p>A comprehensive web-based platform modernizing traditional tailoring services by connecting customers, tailors, delivery agents, and administrators on a single digital platform.</p>
+      <p><b>Tech Stack:</b> React.js, Node.js, Express.js, PostgreSQL, Supabase, Socket.IO, Razorpay, Tailwind CSS</p>
+      <p><b>Architecture:</b> Three-tier Marketplace Model, Client-Server</p>
+      <p><b>Key Features:</b> Body measurement profiles, custom design uploads, visual progress timeline with stage photo updates, real-time tailor-customer chat, and role-based access control.</p>
+      <p>
+        <a href="https://github.com/Karthikchakala" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📸 Image & Video Steganography</h3>
+      <p><b>Deep Video Steganography in Cover Videos</b></p>
+      <p>A deep learning-based steganography system that hides secret videos inside cover videos using convolutional neural networks.</p>
+      <p><b>Tech Stack:</b> Python, TensorFlow, Keras, OpenCV, NumPy, scikit-image, imageio, matplotlib</p>
+      <p><b>Architecture:</b> Autoencoder-based Neural Network (Prepare, Hide, and Reveal Networks)</p>
+      <p><b>Key Features:</b> Double-network simultaneous training (weighted L2 loss), permutation-based block shuffling (56x56 keys), and non-local means denoising/sharpening enhancements.</p>
+      <p>
+        <a href="https://github.com/Karthikchakala/Image-Steganography" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </p>
     </td>
